@@ -1,0 +1,1 @@
+# Edge-AI-Trash-detection-and-classification

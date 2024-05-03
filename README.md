@@ -27,7 +27,7 @@ Download the FOMO int8 tflite model from repo and open it in OpenMV and flash it
 Confusion Matrix of FOMO int8 model       
 
 ![Alt text](fomo-int8-accuracy.png)     
-Accuracy of the FOMO int8 model on the test dataset (20%)       
+Accuracy of the FOMO int8 model on the test dataset       
 
 ## Working of the Project
 Youtube: https://youtu.be/8U-2VrPENp8?si=sKW4kywQF0OKIItJ
